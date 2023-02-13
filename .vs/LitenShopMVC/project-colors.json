@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c25b6bcc-e538-484d-b51c-446642e5fa3d": {
+      "ProjectGuid": "c25b6bcc-e538-484d-b51c-446642e5fa3d",
+      "DisplayName": "LitenShopMVC",
+      "ColorIndex": 0
+    },
+    "820f8651-8845-4912-8bc6-f1bdf8e33e8b": {
+      "ProjectGuid": "820f8651-8845-4912-8bc6-f1bdf8e33e8b",
+      "DisplayName": "LitenShopAPP",
+      "ColorIndex": 1
+    },
+    "e61ef2b0-e992-49ed-8d5c-f2ade4c8b410": {
+      "ProjectGuid": "e61ef2b0-e992-49ed-8d5c-f2ade4c8b410",
+      "DisplayName": "LitenShopAPP",
+      "ColorIndex": 2
+    },
+    "9df8e08f-5f0b-4e9d-82f6-54ca3ecd9922": {
+      "ProjectGuid": "9df8e08f-5f0b-4e9d-82f6-54ca3ecd9922",
+      "DisplayName": "LitenShopINFRASTRACTURE",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
